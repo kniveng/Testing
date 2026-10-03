@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\kevin\\source\\repos\\Assignment 3\\.tmp\\Debug-x64\\utils.obj",
+            "outputs": [
+                "C:\\Users\\kevin\\source\\repos\\Assignment 3\\.tmp\\Debug-x64\\utils.h.obj.dt.module.json",
+                "C:\\Users\\kevin\\source\\repos\\Assignment 3\\.tmp\\Debug-x64\\utils.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
